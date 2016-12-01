@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{79FC6AD1-A7A2-4227-BF1D-C05B37A92974}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ListViewTutorial/MainActivity.cs">
     <Files>
-      <File FileName="ListViewTutorial/MainActivity.cs" Line="62" Column="4" />
+      <File FileName="ListViewTutorial/MainActivity.cs" Line="45" Column="4" />
       <File FileName="ListViewTutorial/Properties/AndroidManifest.xml" Line="6" Column="12" />
       <File FileName="ListViewTutorial/MyListAdapter.cs" Line="60" Column="4" />
       <File FileName="ListViewTutorial/Person.cs" Line="9" Column="2" />
